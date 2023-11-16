@@ -1,0 +1,133 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Highway",
+      "distance": 500
+    },
+    {
+      "id": 2,
+      "name": "Grand Hotel",
+      "distance": 660
+    },
+    {
+      "id": 3,
+      "name": "Beachwalk Hotel",
+      "distance": 750
+    },
+    {
+      "id": 4,
+      "name": "Lemonade Hotel",
+      "distance": 1410
+    },
+    {
+      "id": 5,
+      "name": "Ritz Plaza Hotel",
+      "distance": 550
+    },
+    {
+      "id": 6,
+      "name": "W Hotel",
+      "distance": 800
+    },
+    {
+      "name": "Regency Hotel",
+      "distance": 0,
+      "id": 7
+    },
+    {
+      "name": "Maven Hotel",
+      "distance": 1500,
+      "id": 8
+    },
+    {
+      "name": "National Exchange Hotel",
+      "distance": 720,
+      "id": 9
+    },
+    {
+      "name": "Sirom Hotel",
+      "distance": 2800,
+      "id": 10
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "hotelId": 1,
+      "userId": 1,
+      "review": "test review 1",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "hotelId": 2,
+      "userId": 1,
+      "review": "test review 2",
+      "rating": 2
+    },
+    {
+      "id": 3,
+      "hotelId": 4,
+      "userId": 1,
+      "review": "test review 3",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "hotelId": 3,
+      "userId": 1,
+      "review": "test review 4",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "hotelId": 5,
+      "userId": 1,
+      "review": "test review 5",
+      "rating": 1
+    },
+    {
+      "id": 6,
+      "hotelId": 6,
+      "userId": 1,
+      "review": "test review 6",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "hotelId": 6,
+      "userId": 1,
+      "review": "test review 7",
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "hotelId": 8,
+      "userId": 1,
+      "review": "test review 8",
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "hotelId": 9,
+      "userId": 1,
+      "review": "test review 9",
+      "rating": 3
+    },
+    {
+      "id": 10,
+      "hotelId": 10,
+      "userId": 1,
+      "review": "test review 10",
+      "rating": 6
+    },
+    {
+      "id": 10,
+      "hotelId": 10,
+      "userId": 1,
+      "review": "test review 10",
+      "rating": 6
+    }
+  ]
+}
